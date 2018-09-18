@@ -1,0 +1,12 @@
+/.build
+/.nyc_output
+/Packages
+/build
+/docs/**/undocumented.json
+/docs/**/docsets/
+/lib/
+/node_modules/
+/*.xcodeproj
+.DS_Store
+.env
+.env.yaml

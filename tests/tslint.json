@@ -1,0 +1,13 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "file-header": [true, "Copyright 2018 Bryant Luk"],
+        "only-arrow-functions": false,
+        "semicolon": [true, "never"]
+    },
+    "rulesDirectory": []
+}
