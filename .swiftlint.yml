@@ -78,3 +78,9 @@ trailing_comma:
   severity: error
 excluded:
   - .build
+file_name:
+  excluded: ['XCTestManifests.swift']
+identifier_name:
+  excluded:
+    - __allTests
+    - __allTests()
